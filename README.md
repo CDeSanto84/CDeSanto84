@@ -32,12 +32,11 @@ Christian-DeSanto-Systems-Engineering-Learning-Log
 
 ## Learning Philosophy
 
-Learn the theory
-Build the system
-Break it
-Fix it
-Document the process
-
+- Learn the theory  
+- Build the system  
+- Break it  
+- Fix it  
+- Document the process
 ---
 
 ## GitHub Activity
