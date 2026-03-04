@@ -26,8 +26,7 @@ A daily documented journey of learning systems engineering fundamentals while bu
 
 Repository:
 
-Christian-DeSanto-Systems-Engineering-Learning-Log
-
+[Systems Engineering Learning Log](https://github.com/CDeSanto84/Christian-DeSanto-Systems-Engineering-Learning-Log)
 ---
 
 ## Learning Philosophy
@@ -56,5 +55,5 @@ Christian-DeSanto-Systems-Engineering-Learning-Log
 **Tools**
 - Git
 - VS Code
-- Terminal (zsh)<!--
+- Terminal (zsh)
 
