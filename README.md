@@ -49,12 +49,14 @@ Christian-DeSanto-Systems-Engineering-Learning-Log
 
 ## Current Stack
 
+**Operating Systems**
 - macOS
 - Linux
+
+**Tools**
 - Git
 - VS Code
-- Terminal (zsh)
-<!--
+- Terminal (zsh)<!--
 **CDeSanto84/CDeSanto84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
