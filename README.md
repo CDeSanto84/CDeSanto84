@@ -20,7 +20,7 @@ Documenting daily builds, experiments, and lessons learned while developing real
 
 ### Atmoshred
 
-Backward-compatible spatial audio processing designed to improve listening experiences on legacy AV systems.
+Backward-compatible spatial audio processing for improving listening experiences on legacy AV systems.
 
 Early prototype exploring dialog enhancement, spatial perception techniques, and compatibility with older home theater receivers.
 
@@ -36,7 +36,7 @@ A daily documented journey of learning systems engineering fundamentals while bu
 
 Repository:
 
-[Systems Engineering Learning Log](https://github.com/CDeSanto84/Christian-DeSanto-Systems-Engineering-Learning-Log)---
+[Systems Engineering Learning Log](https://github.com/CDeSanto84/Christian-DeSanto-Systems-Engineering-Learning-Log)
 
 ## Learning Philosophy
 
