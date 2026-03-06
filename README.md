@@ -1,6 +1,6 @@
 # Christian DeSanto
 
-# Transitioning from operations leadership into systems and infrastructure engineering through hands-on building and experimentation.
+### Transitioning from operations leadership into systems and infrastructure engineering through hands-on building and experimentation.
 
 Documenting daily builds, experiments, and lessons learned while developing real systems and software projects.
 
