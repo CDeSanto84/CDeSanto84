@@ -26,6 +26,11 @@ A desktop integration dashboard for local camera services and Home Assistant.
 Background reachability checks, private device configuration, and explicit
 handoffs to camera playback and browser sessions. **Python · Tkinter · Linux**
 
+### [Foxtail World Cams](https://github.com/CDeSanto84/foxtail-world-cams)
+A map-first public webcam and traffic-camera dashboard with provider-aware access,
+favorites, cached listings, and recovery from temporary failures. Separate local
+backends keep credentials out of the browser. **Python · JavaScript · Leaflet**
+
 ### [Foxtail Katana OSINT](https://github.com/CDeSanto84/foxtail-katana-osint)
 A bounded public-source lookup and report engine extracted from the Katana
 workbench. Source provenance, response hashes, explicit uncertainty, and private
