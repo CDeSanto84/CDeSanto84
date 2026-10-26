@@ -1,67 +1,44 @@
-# Christian DeSanto
+![Christian DeSanto — Foxtail Moon](assets/foxtail-header.svg)
 
-### Transitioning from operations leadership into systems and infrastructure engineering through hands-on building and experimentation.
+I build **Foxtail Moon**, a collection of desktop applications and research tools.
+My work brings together Python, TypeScript, Electron, public APIs, and Linux
+integration, with attention to the interface and the systems behind it.
 
-Documenting daily builds, experiments, and lessons learned while developing real systems and software projects.
+## Selected projects
 
-## Current Focus
+### [Foxtail Atlas](https://github.com/CDeSanto84/foxtail-atlas)
+A geographic explorer for Shodan's indexed public IP observations. Persistent
+area caching, provider filters, visible credit costs, and a map that keeps saved
+discoveries available as you explore. **Python · Leaflet · API integration**
 
-* Linux fundamentals
-* Networking & TCP/IP
-* Git & version control
-* Shell scripting
-* Automation workflows
-* Raspberry Pi experimentation
-* Infrastructure concepts
+### [Foxtail Microfiche](https://github.com/CDeSanto84/foxtail-microfiche-desktop)
+A historical-newspaper research workstation with concurrent archive adapters,
+progressive results, source provenance, and a private reader for downloaded
+issues. **Electron · React · TypeScript · FastAPI · PostgreSQL**
 
----
+### [Relay](https://github.com/CDeSanto84/relay)
+A public-source research and evidence workspace. Structured cases, identifier
+lookups, evidence hashes, local search, and investigation briefs, with clear
+boundaries between a source match and a supported claim. **Electron · Node.js**
 
-## Projects
+### [Foxtail Cameras](https://github.com/CDeSanto84/foxtail-cameras)
+A desktop integration dashboard for local camera services and Home Assistant.
+Background reachability checks, private device configuration, and explicit
+handoffs to camera playback and browser sessions. **Python · Tkinter · Linux**
 
-### Atmoshred
+### [Foxtail Katana OSINT](https://github.com/CDeSanto84/foxtail-katana-osint)
+A bounded public-source lookup and report engine extracted from the Katana
+workbench. Source provenance, response hashes, explicit uncertainty, and private
+case output. **Python · OSINT · Evidence reporting**
 
-Backward-compatible spatial audio processing for improving listening experiences on legacy AV systems.
+## How I build
 
-Early prototype exploring dialog enhancement, spatial perception techniques, and compatibility with older home theater receivers.
+I start with a workflow I need, build the interface around it, and work through
+the data, failure states, and desktop integration. The repositories document what
+works, how to run the checks, and what remains unfinished.
 
-Repository:
+These projects use AI-assisted development. Source, architectural choices, and
+validation are published so the work can be inspected directly. Third-party
+libraries and services retain their own attribution and access requirements.
 
-[Atmoshred](https://github.com/CDeSanto84/atmoshred)
-
----
-
-### Systems Engineering Learning Log
-
-A daily documented journey of learning systems engineering fundamentals while building real infrastructure and development environments.
-
-Repository:
-
-[Systems Engineering Learning Log](https://github.com/CDeSanto84/Christian-DeSanto-Systems-Engineering-Learning-Log)
-
-## Learning Philosophy
-
-- Learn the theory  
-- Build the system  
-- Break it  
-- Fix it  
-- Document the process
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDeSanto84&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDeSanto84&layout=compact&theme=dark)
----
-
-## Current Stack
-
-**Operating Systems**
-- macOS
-- Linux
-
-**Tools**
-- Git
-- VS Code
-- Terminal (zsh)
-
+[Foxtail Moon](https://foxtailmoon.com)
