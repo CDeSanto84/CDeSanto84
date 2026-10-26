@@ -4,6 +4,11 @@ I build **Foxtail Moon**, a collection of desktop applications and research tool
 My work brings together Python, TypeScript, Electron, public APIs, and Linux
 integration, with attention to the interface and the systems behind it.
 
+My technical education is self-directed, focused on Linux, networking,
+cybersecurity fundamentals, and systems. I apply that learning through Foxtail
+Moon projects, building practical tools with Python, public APIs, and desktop
+interfaces.
+
 ## Selected projects
 
 ### [Foxtail Atlas](https://github.com/CDeSanto84/foxtail-atlas)
